@@ -1,0 +1,13 @@
+.menu-item {
+    transition: .3s;
+}
+
+.menu-item:hover {
+    background-color: #eee !important;
+    cursor: pointer;
+}
+
+.qr-code > img {
+    width: 100%;
+    max-width: 500px;
+}
